@@ -1,0 +1,19 @@
+{
+  "name": "sequelizeexpressshoppingapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mysql2": "^1.7.0",
+    "sequelize": "^4.44.4",
+    "sequelize-cli": "^6.2.0",
+    "sqlite3": "^5.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
